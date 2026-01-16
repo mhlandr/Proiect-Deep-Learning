@@ -1,0 +1,11 @@
+transformers>=4.40.0
+datasets>=2.19.0
+evaluate>=0.4.2
+seqeval>=1.2.2
+accelerate>=0.30.0
+torch>=2.1.0
+numpy>=1.24.0
+tqdm>=4.66.0
+
+# baseline
+torchcrf>=1.1.0
